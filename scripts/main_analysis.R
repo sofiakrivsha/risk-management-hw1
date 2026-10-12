@@ -1,4 +1,3 @@
-
 packages <- c("quantmod", "PerformanceAnalytics", "ggplot2")
 
 for (pkg in packages) {
